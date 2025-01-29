@@ -8,3 +8,4 @@
 ## Colores: 
 
 -Generador de paletas de colores: https://coolors.co/
+-Degradados colores: https://cssgradient.io/gradient-backgrounds/
