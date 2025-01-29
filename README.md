@@ -2,9 +2,9 @@
 
 ## Inspiración:
 
--https://land-book.com/<br>
--https://threejs.org/
+-Inspiración Diseño web: https://land-book.com/<br>
+-Biblioteca JavaScript: https://threejs.org/
 
 ## Colores: 
 
-https://coolors.co/
+-Generador de paletas de colores: https://coolors.co/
