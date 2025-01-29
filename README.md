@@ -1,5 +1,5 @@
 # Link-list
 
-# Inspiration
+Inspiration
 
 https://trello.com/es
