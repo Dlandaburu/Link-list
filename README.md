@@ -1,9 +1,9 @@
 # Link-list
 
-## Inspiration:
+## Inspiración:
 
 https://land-book.com/
 
-## Colors: 
+## Colores: 
 
 https://coolors.co/
