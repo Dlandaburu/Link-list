@@ -7,5 +7,5 @@
 
 ## Colores: 
 
--Generador de paletas de colores: https://coolors.co/
+-Generador de paletas de colores: https://coolors.co/<br>
 -Degradados colores: https://cssgradient.io/gradient-backgrounds/
