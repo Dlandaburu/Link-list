@@ -12,7 +12,7 @@
 
 ## Ilustraciones:
 
--Biblioteca de Ilustraciones: https://www.openpeeps.com/
+-Generador /biblioteca de Ilustraciones: https://www.openpeeps.com/
 
 ## Recursos:
 
