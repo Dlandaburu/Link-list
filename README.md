@@ -3,7 +3,7 @@
 ## Inspiración:
 
 -Inspiración Diseño web: https://land-book.com/<br>
--Biblioteca JavaScript: https://threejs.org/
+-Biblioteca  proyectos JavaScript: https://threejs.org/
 
 ## Colores: 
 
