@@ -13,3 +13,7 @@
 ## Ilustraciones:
 
 -Biblioteca de Ilustraciones: https://www.openpeeps.com/
+
+## Recursos:
+
+-Recursos gratuitos de Vídeo: https://mixkit.co/
