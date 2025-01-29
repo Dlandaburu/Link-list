@@ -2,4 +2,8 @@
 
 ## Inspiration:
 
-https://trello.com/es
+https://land-book.com/
+
+## Colors: 
+
+https://coolors.co/
