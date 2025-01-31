@@ -17,3 +17,8 @@
 ## Recursos:
 
 -Recursos gratuitos de Vídeo: https://mixkit.co/
+
+## Youtubers que Recomiendo:
+
+-Midudev: https://www.youtube.com/@midudev/shorts<br>
+-Lun Dev: https://www.youtube.com/@lundeveloper
