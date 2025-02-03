@@ -17,7 +17,7 @@
 
 ## Imágenes:
 
--Imágenes de alta caldiad: https://unsplash.com/es<br>
+-Imágenes de alta calidad: https://unsplash.com/es<br>
 -Stock de imágenes: https://www.pexels.com/es-es/
 
 ## Recursos:
