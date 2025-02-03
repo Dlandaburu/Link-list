@@ -15,6 +15,11 @@
 
 -Generador /biblioteca de Ilustraciones: https://www.openpeeps.com/
 
+## Imágenes:
+
+-Imágenes de alta caldiad: https://unsplash.com/es<br>
+-Stock de imágenes: https://www.pexels.com/es-es/
+
 ## Recursos:
 
 -Recursos gratuitos de Vídeo: https://mixkit.co/
