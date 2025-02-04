@@ -22,7 +22,7 @@
 
 ## Recursos:
 
--Recursos gratuitos de Vídeo: https://mixkit.co/
+-Recursos gratuitos de Vídeo: https://mixkit.co/<bR>
 -Recurso código: https://www.reactbits.dev/
 
 ## Personas/Youtubers que recomiendo:
