@@ -26,6 +26,10 @@
 -Mockups gratuitos: https://mockup.photos/freebies<br>
 -Librería de avatares: https://www.dicebear.com/
 
+## Plantillas HTML:
+
+https://html5up.net/
+
 ## Recursos:
 
 -Recursos gratuitos de Vídeo: https://mixkit.co/<bR>
