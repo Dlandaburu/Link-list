@@ -23,7 +23,8 @@
 
 -Imágenes de alta calidad: https://unsplash.com/es<br>
 -Stock de imágenes: https://www.pexels.com/es-es/<br>
--Mockups gratuitos: https://mockup.photos/freebies
+-Mockups gratuitos: https://mockup.photos/freebies<br>
+-Librería de avatares: https://www.dicebear.com/
 
 ## Recursos:
 
