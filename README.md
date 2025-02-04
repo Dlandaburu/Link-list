@@ -28,7 +28,9 @@
 
 ## Plantillas HTML:
 
-https://html5up.net/
+https://html5up.net/<br>
+https://bootstrapmade.com/<br>
+https://templated.co/
 
 ## Recursos:
 
