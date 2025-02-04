@@ -23,8 +23,10 @@
 ## Recursos:
 
 -Recursos gratuitos de Vídeo: https://mixkit.co/
+-Recurso código: https://www.reactbits.dev/
 
-## Youtubers que Recomiendo:
+## Personas/Youtubers que recomiendo:
 
 -Midudev: https://www.youtube.com/@midudev/shorts<br>
 -Lun Dev: https://www.youtube.com/@lundeveloper
+-David Dev: https://github.com/DavidHDev
