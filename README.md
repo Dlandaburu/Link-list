@@ -22,7 +22,8 @@
 ## Imágenes:
 
 -Imágenes de alta calidad: https://unsplash.com/es<br>
--Stock de imágenes: https://www.pexels.com/es-es/
+-Stock de imágenes: https://www.pexels.com/es-es/<br>
+-Mockups gratuitos: https://mockup.photos/freebies
 
 ## Recursos:
 
