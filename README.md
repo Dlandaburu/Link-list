@@ -28,5 +28,5 @@
 ## Personas/Youtubers que recomiendo:
 
 -Midudev: https://www.youtube.com/@midudev/shorts<br>
--Lun Dev: https://www.youtube.com/@lundeveloper
+-Lun Dev: https://www.youtube.com/@lundeveloper<br>
 -David Dev: https://github.com/DavidHDev
