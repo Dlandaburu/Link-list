@@ -15,6 +15,10 @@
 
 -Generador /biblioteca de Ilustraciones: https://www.openpeeps.com/
 
+## Herramientas:
+
+Lista de verificación: https://www.checkli.com/
+
 ## Imágenes:
 
 -Imágenes de alta calidad: https://unsplash.com/es<br>
