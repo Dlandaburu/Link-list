@@ -17,7 +17,7 @@
 
 ## Herramientas:
 
-Lista de verificación: https://www.checkli.com/
+-Lista de verificación: https://www.checkli.com/
 
 ## Imágenes:
 
