@@ -17,7 +17,8 @@
 
 ## Herramientas:
 
--Lista de verificación: https://www.checkli.com/
+-Lista de verificación: https://www.checkli.com/<br>
+-App para diseñar:  https://www.figma.com/
 
 ## Imágenes:
 
