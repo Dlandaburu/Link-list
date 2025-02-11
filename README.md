@@ -2,7 +2,7 @@
 
 ## Inspiración:
 
--Inspiración Diseño web: https://land-book.com/<br>
+-Inspiración Diseño web: https://land-book.com/<br><br>
 -Biblioteca  proyectos JavaScript: https://threejs.org/<br>
 -Página web: https://celmates.wtf/
 
