@@ -3,12 +3,12 @@
 ## Inspiración:
 
 -Inspiración Diseño web: https://land-book.com/<br><br>
--Biblioteca  proyectos JavaScript: https://threejs.org/<br>
+-Biblioteca  proyectos JavaScript: https://threejs.org/<br><br>
 -Página web: https://celmates.wtf/
 
 ## Colores: 
 
--Generador de paletas de colores: https://coolors.co/<br>
+-Generador de paletas de colores: https://coolors.co/<br><br>
 -Degradados colores: https://cssgradient.io/gradient-backgrounds/
 
 ## Ilustraciones:
@@ -17,29 +17,29 @@
 
 ## Herramientas:
 
--Lista de verificación: https://www.checkli.com/<br>
+-Lista de verificación: https://www.checkli.com/<br><br>
 -App para diseñar:  https://www.figma.com/
 
 ## Imágenes:
 
--Imágenes de alta calidad: https://unsplash.com/es<br>
--Stock de imágenes: https://www.pexels.com/es-es/<br>
--Mockups gratuitos: https://mockup.photos/freebies<br>
+-Imágenes de alta calidad: https://unsplash.com/es<br><br>
+-Stock de imágenes: https://www.pexels.com/es-es/<br><br>
+-Mockups gratuitos: https://mockup.photos/freebies<br><br>
 -Librería de avatares: https://www.dicebear.com/
 
 ## Plantillas HTML:
 
-https://html5up.net/<br>
-https://bootstrapmade.com/<br>
+https://html5up.net/<br><br>
+https://bootstrapmade.com/<br><br>
 https://templated.co/
 
 ## Recursos:
 
--Recursos gratuitos de Vídeo: https://mixkit.co/<bR>
+-Recursos gratuitos de Vídeo: https://mixkit.co/<br><br>
 -Recurso código: https://www.reactbits.dev/
 
 ## Personas/Youtubers que recomiendo:
 
--Midudev: https://www.youtube.com/@midudev/shorts<br>
--Lun Dev: https://www.youtube.com/@lundeveloper<br>
+-Midudev: https://www.youtube.com/@midudev/shorts<br><br>
+-Lun Dev: https://www.youtube.com/@lundeveloper<br><br>
 -David Dev: https://github.com/DavidHDev
