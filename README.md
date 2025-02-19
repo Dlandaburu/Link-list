@@ -18,7 +18,7 @@
 ## Herramientas:
 
 -Lista de verificación: https://www.checkli.com/<br><br>
--App para diseñar:  https://www.figma.com/<br>
+-App para diseñar:  https://www.figma.com/<br><br>
 -Biblioteca de frameworks: https://getbootstrap.com/
 
 ## Imágenes:
