@@ -29,7 +29,8 @@
 -Mockups gratuitos: https://mockup.photos/freebies<br><br>
 -Mockups gratuitos de calidad: https://es.mockuuups.studio/<br><br>
 -Librería de avatares: https://www.dicebear.com/<br><br>
--Web para quitar el fondo a tu imagen, vídeo etc:  https://www.remove.bg/es
+-Web para quitar el fondo a tu imagen, vídeo etc:  https://www.remove.bg/es<br><br>
+-Generador de imágenes: https://visualelectric.com/
 
 ## Plantillas HTML:
 
