@@ -36,7 +36,8 @@
 
 https://html5up.net/<br><br>
 https://bootstrapmade.com/<br><br>
-https://templated.co/
+https://templated.co/<br><br>
+https://htmlrev.com/
 
 ## Recursos:
 
