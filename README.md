@@ -9,6 +9,7 @@
 ## Colores: 
 
 -Generador de paletas de colores: https://coolors.co/<br><br>
+-Generador de paletas de color: https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FBAC23-F68128-F25A2C-ED3731<br><br>
 -Degradados colores: https://cssgradient.io/gradient-backgrounds/
 
 ## Ilustraciones:
