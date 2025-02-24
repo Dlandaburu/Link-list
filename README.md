@@ -27,6 +27,7 @@
 -Imágenes de alta calidad: https://unsplash.com/es<br><br>
 -Stock de imágenes: https://www.pexels.com/es-es/<br><br>
 -Mockups gratuitos: https://mockup.photos/freebies<br><br>
+-Mockups gratuitos de calidad: https://es.mockuuups.studio/<br><br>
 -Librería de avatares: https://www.dicebear.com/<br><br>
 -Web para quitar el fondo a tu imagen, vídeo etc:  https://www.remove.bg/es
 
