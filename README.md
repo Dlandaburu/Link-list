@@ -39,6 +39,10 @@ https://bootstrapmade.com/<br><br>
 https://templated.co/<br><br>
 https://htmlrev.com/
 
+## Sitio de fuentes Gratuitas:
+
+https://www.fontshare.com/
+
 ## Recursos:
 
 -Recursos gratuitos de Vídeo: https://mixkit.co/<br><br>
