@@ -13,7 +13,7 @@
 -Líneas de texturas: https://texturelabs.org/?ct=732
 
 ## Modelado 3D:
-Software Modelado 3Dhttps://womp.com/
+Software Modelado 3D: https://womp.com/
 
 ## Colores: 
 
