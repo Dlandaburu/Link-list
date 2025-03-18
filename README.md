@@ -14,7 +14,15 @@
 
 ## Ilustraciones:
 
--Generador /biblioteca de Ilustraciones: https://www.openpeeps.com/
+-Generador /biblioteca de Ilustraciones: https://www.openpeeps.com/<br><br>
+-Creación de ilustraciones: https://blush.design/es<br><br>
+-Repositorio de Ilustaciones: https://undraw.co/<br><br>
+-Ilustraciones Gratuitas: https://opendoodles.com/<br><br>
+-Biblioteca de Ilustaciones: https://www.humaaans.com/<br><br>
+
+## Plataforma para Diseñadores:
+
+https://icons8.com/
 
 ## Herramientas:
 
