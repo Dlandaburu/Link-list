@@ -31,6 +31,12 @@ Software Modelado 3D: https://womp.com/
 -Diseños/Ilustraciones 3D: https://www.drawkit.com/<br><br>
 -Banco Ilustraciones Gratuitas: https://storyset.com/
 
+## Sitio de fuentes Gratuitas:
+
+https://www.fontshare.com/<br><br>
+https://www.freefaces.gallery/?3a2d1f52_page=9<br><br>
+https://www.fontspace.com/
+
 ## Plataforma para Diseñadores:
 
 https://icons8.com/
@@ -57,12 +63,6 @@ https://html5up.net/<br><br>
 https://bootstrapmade.com/<br><br>
 https://templated.co/<br><br>
 https://htmlrev.com/
-
-## Sitio de fuentes Gratuitas:
-
-https://www.fontshare.com/<br><br>
-https://www.freefaces.gallery/?3a2d1f52_page=9<br><br>
-https://www.fontspace.com/
 
 ## Recursos:
 
