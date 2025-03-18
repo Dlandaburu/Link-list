@@ -12,7 +12,6 @@
 -Colección Digital ( manuscritos, fotos, mapas ...): https://digitalcollections.nypl.org/<br><br>
 -Líneas de texturas: https://texturelabs.org/?ct=732
 
-
 ## Colores: 
 
 -Generador de paletas de colores: https://coolors.co/<br><br>
