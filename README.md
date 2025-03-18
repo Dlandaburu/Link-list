@@ -9,7 +9,8 @@
 ## Arte: 
 
 -Buscador de contenido gratis: https://public.work/<br><br>
--
+-Colección Digital ( manuscritos, fotos, mapas ...): https://digitalcollections.nypl.org/<br><br>
+-Líneas de texturas: https://texturelabs.org/?ct=732
 
 
 ## Colores: 
