@@ -12,6 +12,9 @@
 -Colección Digital ( manuscritos, fotos, mapas ...): https://digitalcollections.nypl.org/<br><br>
 -Líneas de texturas: https://texturelabs.org/?ct=732
 
+## Modelado 3D:
+Software Modelado 3Dhttps://womp.com/
+
 ## Colores: 
 
 -Generador de paletas de colores: https://coolors.co/<br><br>
