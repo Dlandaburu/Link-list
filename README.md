@@ -19,6 +19,8 @@
 -Repositorio de Ilustaciones: https://undraw.co/<br><br>
 -Ilustraciones Gratuitas: https://opendoodles.com/<br><br>
 -Biblioteca de Ilustaciones: https://www.humaaans.com/<br><br>
+-Diseños/Ilustraciones 3D: https://www.drawkit.com/<br><br>
+-Banco Ilustraciones Gratuitas: https://storyset.com/
 
 ## Plataforma para Diseñadores:
 
