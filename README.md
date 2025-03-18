@@ -42,7 +42,8 @@ https://htmlrev.com/
 ## Sitio de fuentes Gratuitas:
 
 https://www.fontshare.com/<br><br>
-https://www.freefaces.gallery/?3a2d1f52_page=9
+https://www.freefaces.gallery/?3a2d1f52_page=9<br><br>
+https://www.fontspace.com/
 
 ## Recursos:
 
