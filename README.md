@@ -10,13 +10,15 @@
 
 -Buscador de contenido gratis: https://public.work/<br><br>
 -Colección Digital ( manuscritos, fotos, mapas ...): https://digitalcollections.nypl.org/<br><br>
--Líneas de texturas: https://texturelabs.org/?ct=732
+-Líneas de texturas: https://texturelabs.org/?ct=732<br><br>
+-Sitio texturas: https://texture.ninja/ 
 
 ## Modelado 3D:
 Software Modelado 3D: https://womp.com/
 
 ## Colores: 
 
+-Galería de degradados: https://uigradients.com/#BloodyMary<br><br>
 -Generador de paletas de colores: https://coolors.co/<br><br>
 -Generador de paletas de color: https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FBAC23-F68128-F25A2C-ED3731<br><br>
 -Degradados colores: https://cssgradient.io/gradient-backgrounds/
@@ -37,9 +39,10 @@ https://www.fontshare.com/<br><br>
 https://www.freefaces.gallery/?3a2d1f52_page=9<br><br>
 https://www.fontspace.com/
 
-## Plataforma para Diseñadores:
+## Iconos gratuitos:
 
-https://icons8.com/
+https://icons8.com/<br><br>
+https://mockupbee.com/
 
 ## Herramientas:
 
@@ -49,8 +52,10 @@ https://icons8.com/
 
 ## Imágenes:
 
+-Stock de imágenes de alta calidad: https://www.lummi.ai/<br><br>
 -Imágenes de alta calidad: https://unsplash.com/es<br><br>
 -Stock de imágenes: https://www.pexels.com/es-es/<br><br>
+-Mockups gratuitos/pago: https://mockupbee.com/<br><br>
 -Mockups gratuitos: https://mockup.photos/freebies<br><br>
 -Mockups gratuitos de calidad: https://es.mockuuups.studio/<br><br>
 -Librería de avatares: https://www.dicebear.com/<br><br>
