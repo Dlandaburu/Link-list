@@ -21,7 +21,8 @@ Software Modelado 3D: https://womp.com/
 -Galería de degradados: https://uigradients.com/#BloodyMary<br><br>
 -Generador de paletas de colores: https://coolors.co/<br><br>
 -Generador de paletas de color: https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FBAC23-F68128-F25A2C-ED3731<br><br>
--Degradados colores: https://cssgradient.io/gradient-backgrounds/
+-Degradados colores: https://cssgradient.io/gradient-backgrounds/<br><br>
+-Convertidor de colores rgb, cmyk y hex: https://convertacolor.com/
 
 ## Ilustraciones:
 
