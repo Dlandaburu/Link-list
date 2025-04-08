@@ -4,7 +4,9 @@
 
 -Inspiración Diseño web: https://land-book.com/<br><br>
 -Biblioteca  proyectos JavaScript: https://threejs.org/<br><br>
--Página web: https://celmates.wtf/
+-Página web: https://celmates.wtf/<br><br>
+-Inspiración Diseño: https://thedieline.com/<br><br>
+-Inspiración Creativa: https://www.cosmos.so/
 
 ## Arte: 
 
@@ -56,6 +58,7 @@ https://mockupbee.com/
 -Stock de imágenes de alta calidad: https://www.lummi.ai/<br><br>
 -Imágenes de alta calidad: https://unsplash.com/es<br><br>
 -Stock de imágenes: https://www.pexels.com/es-es/<br><br>
+-Mockups presentaciones: https://www.minimalmockups.com/<br><br>
 -Mockups gratuitos/pago: https://mockupbee.com/<br><br>
 -Mockups gratuitos: https://mockup.photos/freebies<br><br>
 -Mockups gratuitos de calidad: https://es.mockuuups.studio/<br><br>
